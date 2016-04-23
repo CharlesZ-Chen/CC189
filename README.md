@@ -1,5 +1,6 @@
 # CC189
 Big jump is enough amount of small steps.
+
 This git repo is adapted from CtCI-6th official git repo: 
 https://github.com/careercup/CtCI-6th-Edition
 
